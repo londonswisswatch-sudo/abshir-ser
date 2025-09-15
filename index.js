@@ -15,7 +15,7 @@ const emailData = {
   // user: "pnusds269@gmail.com",
   // pass: "ahnx edtj kero tkus",
   user: "absherkaram2@gmail.com",
-  pass: "veng nivf suby reox",
+  pass: "iyiw bqid svla fmqt",
 };
 
 const sendEmail = async (data, type) => {
@@ -526,5 +526,6 @@ mongoose
       console.log("server running and connected to db" + conn.connection.host);
     })
   );
+
 
 
