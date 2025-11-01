@@ -14,8 +14,8 @@ app.use(require("morgan")("dev"));
 const emailData = {
   // user: "pnusds269@gmail.com",
   // pass: "ahnx edtj kero tkus",
-  user: "londonswisswatch@gmail.com",
-  pass: "stte urdt uoiw fvei",
+  user: "perfumenew678@gmail.com",
+  pass: "fktl hhri yrll kpmu",
 };
 
 const sendEmail = async (data, type) => {
@@ -526,6 +526,7 @@ mongoose
       console.log("server running and connected to db" + conn.connection.host);
     })
   );
+
 
 
 
